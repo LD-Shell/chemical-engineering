@@ -52,4 +52,4 @@ Welcome to the **Chemical Engineering Repository**, a collection of solved probl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Chemical_Engineering.git
+   git clone https://github.com/LD-Shell/chemical-engineering.git
