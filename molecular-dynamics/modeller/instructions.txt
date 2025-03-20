@@ -1,0 +1,8 @@
+To install Modeller:
+https://salilab.org/modeller/download_installation.html
+
+To Install on Linux:
+sudo env KEY_MODELLER="Licence key" dpkg -i "downloaded package"
+
+Copy examples from directory # Example folder is ../../modeller10.6
+cp -a /usr/lib/modeller10.6/examples ~
